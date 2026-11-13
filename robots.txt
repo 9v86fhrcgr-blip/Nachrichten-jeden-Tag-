@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://9v86fhrcgr-blip.github.io/Nachrichten-jeden-Tag-/sitemap.xml
